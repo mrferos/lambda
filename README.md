@@ -1,4 +1,4 @@
-# The µ PHP Microframework
+# The λ PHP Cli Microframework
 
 [![Code Climate](https://codeclimate.com/github/jeremeamia/mu/badges/gpa.svg)](https://codeclimate.com/github/jeremeamia/mu)
 
